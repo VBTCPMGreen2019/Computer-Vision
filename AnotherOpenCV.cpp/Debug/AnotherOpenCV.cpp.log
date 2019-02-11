@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\rvance0896\source\repos\anotheropencv.cpp\anotheropencv.cpp\main.cpp(27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  AnotherOpenCV.cpp.vcxproj -> C:\Users\rvance0896\source\repos\AnotherOpenCV.cpp\Debug\AnotherOpenCV.cpp.exe
